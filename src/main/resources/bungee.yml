@@ -1,0 +1,3 @@
+name: Diacraftnetwork
+version: '${project.version}'
+main: net.pexlab.diacraftnetwork.Main
